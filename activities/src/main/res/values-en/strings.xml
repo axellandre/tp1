@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <resources>
+        <string name="app_name">My Application</string>
+        <string name="nombre_1">Nombre 1</string>
+        <string name="nombre_2">Nombre 2</string>
+        <string name="calculer">Calculer</string>
+        <string name="cliquez_moi">Cliquez moi</string>
+        <string name="faire_un_calcul">Faire un calcul</string>
+    </resources>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="wantToDeleteNeighbor">"Do you really want to remove this neighbor?"</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="email">Email</string>
+    <string name="aboutMe">About me</string>
+    <string name="button">SAVE</string>
+    <string name="address">Address</string>
+    <string name="image">Image</string>
+    <string name="add">+👤</string>
+    <string name="oui">Yes</string>
+    <string name="non">No</string>
+    <string name="Confirmation_Message">Do you really want to remove this neighbor?</string>
+    <string name="list_neighbours_toolbar_name">Neighbor list</string>
+    <string name="add_neighbour_toolbar_name">New neighbor</string>
+</resources>
