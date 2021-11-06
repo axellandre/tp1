@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="wantToDeleteNeighbor">"Voulez-vous vraiment supprimer ce voisin ?"</string>
+    <string name="todo">TODO</string>
+    <string name="name">Nom</string>
+    <string name="phone">Téléphone</string>
+    <string name="website">Website</string>
+    <string name="email">Email</string>
+    <string name="aboutMe">A propos de moi</string>
+    <string name="button">ENREGISTRER</string>
+    <string name="address">Adresse</string>
+    <string name="image">Image</string>
+    <string name="add">+</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="Confirmation_Message">Voulez-vous vraiment supprimer ce voisin ?</string>
+    <string name="list_neighbours_toolbar_name">Liste des voisins</string>
+    <string name="add_neighbour_toolbar_name">Nouveau voisin</string>
+</resources>
